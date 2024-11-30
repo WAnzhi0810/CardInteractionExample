@@ -1,12 +1,14 @@
 # CardInteractionExample
 
+[English](README_EN.md) | 简体中文
+
 ## 简介
 
 这是一个使用 SwiftUI 实现的 iOS 卡片堆叠动画示例项目。展示了如何创建一个优雅的3D卡片滚动效果。
 
 ## 效果预览
 
-![Demo](Demo.gif)
+<img src="Demo.gif" width="300" alt="Demo">
 
 ## 系统要求
 

@@ -1,12 +1,14 @@
 # CardInteractionExample
 
+English | [简体中文](README.md)
+
 ## Introduction
 
 This is an iOS demo project implemented with SwiftUI, showcasing an elegant 3D card stack animation effect.
 
 ## Preview
 
-![Demo](Demo.gif)
+<img src="Demo.gif" width="300" alt="Demo">
 
 ## Requirements
 
